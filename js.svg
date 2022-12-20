@@ -1,15 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="300px" height="300px" x="0" y="0">
-   <foreignObject width="300px" height="300px">
-      <html xmlns="http://www.w3.org/1999/xhtml">
-         <head>
-            <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-         </head>
-         <body>
-            <video width="300px" controls="" src="https://www.dl.dropboxusercontent.com/s/pkcnw0ixqwtf0o6/ujdid.mp4?dl=1">
-
-            </video>
-         </body>
-      </html>
-   </foreignObject>
+<svg version="1.1" class="center-block" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="600"  style="border: 1px solid black;">
+    <g>
+        <g transform="translate(151,104) scale(1,1)">
+            <rect x="0" y="0" width="300" height="200"></rect>
+            <foreignObject x="-151" y="-104" width="500" height="400">
+                <video xmlns="http://www.w3.org/1999/xhtml" width="300" height="200" controls="" style="position: fixed; left: 151px; top: 104px;">
+                    <source src="http://techslides.com/demos/sample-videos/small.mp4" type="video/mp4" />
+                </video>
+            </foreignObject>
+        </g>
+    </g>
 </svg>
